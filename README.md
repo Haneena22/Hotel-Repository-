@@ -15,7 +15,6 @@ Currently, two official plugins are available:
 ## Technologies Used
 - Frontend: React.js (Vite)
 - Styling: Tailwind CSS 
-- State Management: React Context API
 - Routing: React Router DOM
 
 ## ⚙️ System Requirements
