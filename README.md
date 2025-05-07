@@ -1,4 +1,4 @@
-#  Hotel Booking System
+![Hotel Booking System Preview](./src/assets/hotel-booking.png)
 
 A comprehensive hotel reservation system built with React.js and Tailwind CSS, featuring complete booking management, room administration, and customer support.
 Currently, two official plugins are available:
